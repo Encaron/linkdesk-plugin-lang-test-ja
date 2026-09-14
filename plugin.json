@@ -2,9 +2,10 @@
   "$schema": "./node_modules/@linkdesk/plugin-sdk/schemas/plugin.schema.json",
   "pluginId": "lang-test-ja",
   "name": "日本語テスト",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "单语言插件测试——E3c #42 验证",
   "author": "测试",
+  "icon": "resources/icon.svg",
   "contributes": {
     "languages": [
       {
